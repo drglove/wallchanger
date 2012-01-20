@@ -1,0 +1,5 @@
+wallchanger:
+Nick Lange
+
+Change your wallpaper on a Linux machine using gconftool.
+Useful to put in a cron job to run every X minutes (or whenever you like).
